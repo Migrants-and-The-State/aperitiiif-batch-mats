@@ -1,0 +1,12 @@
+# batch config
+
+label:          'A-Files IIIF'
+description:    'NARA A-Files for Migrants and the State Project'
+attribution:    ''
+source_dir:     '/Volumes/migrants_state/jpgs'
+
+presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
+image_api_url:        'https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2'
+
+records:
+  file: 'src/records.csv'
